@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.card-header ,.card-footer
+{
+background-color: aliceblue!important;
+border: aliceblue !important;
+font-weight: 500;
+}
+
+.card {
+ border: 2px solid aliceblue !important;
+}
